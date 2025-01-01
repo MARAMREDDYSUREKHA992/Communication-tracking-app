@@ -1,0 +1,16 @@
+body {
+  font-family: 'Arial', sans-serif;
+  background-color: #fafafa;
+  margin: 0;
+  padding: 0;
+}
+
+.App {
+  padding: 30px;
+}
+
+h2 {
+  text-align: center;
+  font-size: 2rem;
+  color: #4b6bcb;
+}
